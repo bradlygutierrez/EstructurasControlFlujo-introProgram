@@ -3,10 +3,10 @@
 <h2> Pasos para descargar la carpeta </h2>
 <ol>
   <li>
-    Descargar en el botón verde el folder como rar
+    Descargar en el botón azul que dice "Code" el folder como ZIP
   </li>
   <li>
-    Abrir la descargar en el explorador de archivos y extraer el rar
+    Abrir la descargar en el explorador de archivos y extraer el ZIP
   </li>
   <li>
     Entrar a Visual Studio Code y en la esquina superior izquierda, seleccionar "open folder" y buscan lo que extrayeron
